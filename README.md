@@ -5,28 +5,11 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-6.0+-00684A?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)](https://www.mongodb.com)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-GPT--4-7CF178?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)](https://platform.openai.com)
 
-## Curso para aprender el lenguaje de programación Python desde cero y para principiantes
-
-![](./Images/header.jpg)
-
-### Proyecto realizado durante emisiones en directo desde [Twitch](https://twitch.tv/mouredev)
-> ##### Si consideras útil el curso, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
-
-## ¡NUEVO! Curso de Python para web
-
-[![Curso Python Web](https://img.shields.io/github/stars/mouredev/python-web?label=Curso%20Python%20web&style=social)](https://github.com/mouredev/python-web)
-
-<a href="https://github.com/mouredev/python-web"><img src="https://raw.githubusercontent.com/mouredev/python-web/main/Images/header.jpg"/></a>
-
-## Clases en vídeo
-
-### Curso de fundamentos desde cero
+### Fundamentos desde cero
 
 Curso que agrupa todas las clases en directo que hacen referencia a los fundamentos de Python.
 
 > Código: Directorio "Basic" en el proyecto
-
-<a href="https://youtu.be/Kp4Mvapo5kc"><img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 
 * [Introducción](https://youtu.be/Kp4Mvapo5kc)
 * [Contexto](https://youtu.be/Kp4Mvapo5kc?t=244)
@@ -53,8 +36,6 @@ Curso en el que continuamos aprendiendo Python desde sus bases, siguiendo la rut
 
 > Código: Directorio "Intermediate" en el proyecto
  
-<a href="https://youtu.be/TbcEqkabAWU"><img src="http://i3.ytimg.com/vi/TbcEqkabAWU/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
-
 * [Introducción](https://youtu.be/TbcEqkabAWU)
 * [Lección 1 - Dates](https://youtu.be/TbcEqkabAWU?t=202)
 * [Lección 2 - List Comprehension](https://youtu.be/TbcEqkabAWU?t=3239)
@@ -72,8 +53,6 @@ Curso en el que continuamos aprendiendo Python desde sus bases, siguiendo la rut
 Curso en el que aprenderemos a utilizar Python para backend e implementaremos un API REST con autenticación, base de datos y desplegaremos el proyecto en un servidor real.
 
 > Código: Directorio "Backend" en el proyecto
-
-<a href="https://youtu.be/_y9qQZXE24A"><img src="http://i3.ytimg.com/vi/_y9qQZXE24A/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 
 * [Introducción](https://youtu.be/_y9qQZXE24A)
 * [Lección 01 - ¿Qué es un backend?](https://youtu.be/_y9qQZXE24A?t=125)
@@ -100,8 +79,6 @@ Curso en el que aprenderemos a utilizar Python para backend e implementaremos un
 
 ### Aprende a integrar ChatGPT en tu proyecto desde cero
 
-<a href="https://youtu.be/b8COygWdvmw"><img src="http://i3.ytimg.com/vi/b8COygWdvmw/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
-
 Clase de una hora de duración donde aprenderás a interactuar con ChatGPT desde tu aplicación, mantener conversaciones y establecer el contexto de la IA para potenciar tu proyecto.
 
 Con todo el código publicado [aquí](https://gist.github.com/mouredev/58abfbcef017efaf3852e8821564c011).
@@ -109,24 +86,6 @@ Con todo el código publicado [aquí](https://gist.github.com/mouredev/58abfbcef
 ### Introducción al Testing
 
 Taller de introducción a testing con Python creado junto a [Carlos Blé](https://www.carlosble.com) y [Miguel A. Gómez](https://softwarecrafters.io), expertos en la materia.
-
-<a href="https://youtu.be/344uwF1z2Gg"><img src="http://i3.ytimg.com/vi/344uwF1z2Gg/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
-
-### Extra: 15 curiosidades sobre Python
-
-Y para finalizar... ¿Quieres saber aun más sobre él? Aquí tienes 15 curiosidades que quizás no conozcas sobre el lenguaje.
-
-<a href="https://youtu.be/q2lCm2KAz3w"><img src="http://i3.ytimg.com/vi/q2lCm2KAz3w/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
-
-## Información importante y preguntas frecuentes
-
-Actualmente el curso está en pausa. Se han finalizados los bloques básico, intermedio y backend, y ese era el objetivo inicial del proyecto.
-No descarto añadir nuevas lecciones a futuro, pero creo que por el momento puede servir de base a cualquier persona que quiera empezar a aprender este lenguaje.
-
-* Recuerda que he creado en el [Discord](https://discord.gg/mouredev) un canal "🐍python" para que puedas comentar lo que quieras.
-* En el momento que el curso continúe, actualizaré el repositorio y avisaré en redes.
-
-¡Muchísimas gracias por todo el apoyo mostrado!
 
 ## Enlaces de interés
 
@@ -138,29 +97,3 @@ No descarto añadir nuevas lecciones a futuro, pero creo que por el momento pued
 * [FastAPI](https://fastapi.tiangolo.com/es/): El framework para crear nuestra API Backend
 * [MongoDB](https://www.mongodb.com/): La base de datos que utiliza nuestro backend
 * [Deta](https://www.deta.sh/): Para desplegar nuestra API en la nube
-
-#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
-
-[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
-
-Si quieres unirte a nuestra comunidad de desarrollo, aprender programación de Apps, mejorar tus habilidades y ayudar a la continuidad del proyecto, puedes encontrarnos en:
-
-[![Twitch](https://img.shields.io/badge/Twitch-Programación_en_directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
-[![Discord](https://img.shields.io/badge/Discord-Servidor_de_la_comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
-[![Link](https://img.shields.io/badge/Links_de_interés-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://moure.dev)
-
-## ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure.
-### Freelance full-stack iOS & Android engineer
-
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
-
-Soy ingeniero de software desde hace más de 12 años. Desde hace 4 años combino mi trabajo desarrollando Apps con creación de contenido formativo sobre programación y tecnología en diferentes redes sociales como **[@mouredev](https://moure.dev)**.
-
-### En mi perfil de GitHub tienes más información
-
-[![Web](https://img.shields.io/badge/GitHub-MoureDev-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/mouredev)
