@@ -83,10 +83,6 @@ Clase de una hora de duración donde aprenderás a interactuar con ChatGPT desde
 
 Con todo el código publicado [aquí](https://gist.github.com/mouredev/58abfbcef017efaf3852e8821564c011).
 
-### Introducción al Testing
-
-Taller de introducción a testing con Python creado junto a [Carlos Blé](https://www.carlosble.com) y [Miguel A. Gómez](https://softwarecrafters.io), expertos en la materia.
-
 ## Enlaces de interés
 
 * [Web oficial de Python](https://www.python.org/)
